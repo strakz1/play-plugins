@@ -13,3 +13,8 @@ framework/sbt/boot
 .history
 .idea
 RUNNING_PID
+./bin
+.project
+.worksheet
+.cache
+.classpath
